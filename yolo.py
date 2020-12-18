@@ -19,8 +19,7 @@ while True:
                       custom_objects=None, input_type="array",
                       output_type="array",
                       minimum_percentage_probability=70,
-                      display_percentage_probability=False,
-                      display_object_name=True)
+                      display_percentage_probability=Faq
     ## display predictions
     cv2.imshow("", img)
     ## press q or Esc to quit    
