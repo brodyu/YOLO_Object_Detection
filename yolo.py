@@ -1,4 +1,4 @@
-modelpath = "yolo.h5"
+modelpath = "mymodel.h5"
 
 from imageai import Detection
 yolo = Detection.ObjectDetection()
